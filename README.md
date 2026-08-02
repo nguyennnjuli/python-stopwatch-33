@@ -1,2 +1,4 @@
-# python-stopwatch-33
+# Python Stopwatch 33
+
 Mock CLI stopwatch implementation in Python.
+
